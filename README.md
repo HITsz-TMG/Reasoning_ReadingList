@@ -20,6 +20,9 @@
 2. **AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension** ACL. [[code](https://github.com/nju-websoft/AdaLoGN)] [[pdf](https://arxiv.org/pdf/2203.08992.pdf)]
 
     *Xiao Li, Gong Cheng, Ziheng Chen, Yawei Sun, Yuzhong Qu*
+### 2021
+1. **Case-Based Reasoning for Natural Language Queries over Knowledge Bases** EMNLP. [[pdf](https://aclanthology.org/2021.emnlp-main.755/)]
+    *Rajarshi Das, Manzil Zaheer, Dung Thai, Ameya Godbole, Ethan Perez, Jay Yoon Lee, Lizhen Tan, Lazaros Polymenakos, Andrew McCallum*
 
 ### 2020
 1. **Conversational Neuro-Symbolic Commonsense Reasoning.** AAAI. [[code, data](https://github.com/ForoughA/CORGI)] [[pdf](https://arxiv.org/abs/2006.10022)]
