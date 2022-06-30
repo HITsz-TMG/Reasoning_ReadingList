@@ -22,6 +22,7 @@
     *Xiao Li, Gong Cheng, Ziheng Chen, Yawei Sun, Yuzhong Qu*
 ### 2021
 1. **Case-Based Reasoning for Natural Language Queries over Knowledge Bases** EMNLP. [[pdf](https://aclanthology.org/2021.emnlp-main.755/)]
+
     *Rajarshi Das, Manzil Zaheer, Dung Thai, Ameya Godbole, Ethan Perez, Jay Yoon Lee, Lizhen Tan, Lazaros Polymenakos, Andrew McCallum*
 
 ### 2020
