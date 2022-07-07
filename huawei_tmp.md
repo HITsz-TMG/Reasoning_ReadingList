@@ -654,6 +654,8 @@
 
             + [2018 NAACL] Newsroom  A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies.pdf
 
+            + [2018] WikiHow  A Large Scale Text Summarization Dataset.pdf
+
             + [2020 COLING] DebateSum  A large-scale argument mining and summarization dataset.pdf
 
             + [2020] AQuaMuSe  Automatically Generating Datasets for Query-Based Multi-Document Summarization.pdf
