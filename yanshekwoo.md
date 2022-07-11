@@ -8,6 +8,10 @@
 + **Predicting Out-of-Distribution Error with the Projection Norm** . 2022 ICML.  [[pdf](https://arxiv.org/pdf/2202.05834.pdf)]
 
     *Yaodong Yu\*, Zitong Yang\*, Alexander Wei, Yi Ma, Jacob Steinhardt*
+    
+
++ **Robustness and Accuracy Could Be Reconcilable by (Proper) Definition** . 2022 ICML.  [[pdf](https://arxiv.org/pdf/2202.10103.pdf)]
+    *Tianyu Pang, Min Lin, Xiao Yang,  Jun Zhu, Shuicheng Yan*
 
 
 
